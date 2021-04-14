@@ -1,6 +1,8 @@
 # Token Farm (STAKE, UNSTAKE, EARN INTEREST!!:gem: :gem::raised_hands:)
 ## Decentralized finance Blockchain app. This Digital Bank lets you earn intrest from depositing cryptocurrency.
 
+![token farm](https://github.com/dris1995/token_farm/blob/main/src/img/token-farm-01.png)
+
 ## Smart Contracts
 DaiToken - Mock okens that investors can depoit into bank to earn intrest.
 DappToken - Mock token that is paid out to investor by the bank as intrest for staking Mock Dai tokens.

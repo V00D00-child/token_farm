@@ -1,4 +1,4 @@
-# Token Farm (STAKE, UNSTAKE, EARN INTREST!!:gem: :gem::raised_hands:)
+# Token Farm (STAKE, UNSTAKE, EARN INTEREST!!:gem: :gem::raised_hands:)
 ## Decentralized finance Blockchain app. This Digital Bank lets you earn intrest from depositing cryptocurrency.
 
 ## Smart Contracts
@@ -24,10 +24,10 @@ TokenFarm - This Digital Bank that allow investors to staking Mock Dai token, an
 4. Run smart contract deployment script "npm run block:deploy" (note: whenever a change is made to smart contract make sure to compile by running "npm run block:compile")
 5. Start React app "npm run start"
 6. Go to localhost:3000/ in the browser
-7. Stake, unstake and earn tokens!!
+7. Stake, unstake and earn interest!!
 
 ## On init deployment
-After smart contracts are deployed to Blockchain, we transferr 1million Dapp tokens to the Token Farm(Digital Bank) and also transefer 100 Dai tokens to the investors wallet.
+After smart contracts are deployed to Blockchain, we transferr 1 million Dapp tokens to the Token Farm(Digital Bank) and also transefer 100 Dai tokens to the investors wallet.
 
 ## Features
 ThisDecentralized finance Blockchain app allows investors to:
@@ -38,7 +38,7 @@ ThisDecentralized finance Blockchain app allows investors to:
 ### Stake token
 Investor can choose how many Dai token that want to stake with the Token Farm(Digital Bank)
 
-### Earn intrest for staking tokens(TokenFarm will only issue tokens to investors that are staking)
+### Earn interest for staking tokens(TokenFarm will only issue tokens to investors that are staking)
 Once smart contract have been deployed to blockchain and React app is running locally run issue token script "npm run block:issue-token".
 
 ### Unstake tokens

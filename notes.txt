@@ -1,0 +1,19 @@
+// deploy smart contract to blockchain
+truffle compile
+truffle migrate --reset
+truffle console
+truffle exec scripts/issue-token.js
+
+// Check smart contract deployment
+mDai = await DaiToken.deployed()
+accounts = await web3.eth.getAccounts()
+balance = await mDai.balanceOf(accounts[1])
+balance.toString()
+formattedBalance = web3.utils.fromWei(balance)
+
+// create git repo
+git remote set-url origin https://github.com/your/repository
+
+// Testing 
+Mocha
+Chai Asseertion Library

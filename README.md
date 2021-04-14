@@ -20,7 +20,7 @@ TokenFarm - This Digital Bank that allow investors to staking Mock Dai token, an
 ## Set up to run locally
 1. npm install
 2. Install Ganache and start it up locally(this is our local blockchain network)
-3. Connect MetaMask to local blockchain network
+3. Connect MetaMask to local blockchain network and import private key of 2nd address in Ganache(note: the 1st address is used by Token Farm, 2nd address used by investor)
 4. Run smart contract deployment script "npm run block:deploy" (note: whenever a change is made to smart contract make sure to compile by running "npm run block:compile")
 5. Start React app "npm run start"
 6. Go to localhost:3000/ in the browser

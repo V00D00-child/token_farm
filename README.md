@@ -1,4 +1,4 @@
-# Token Farm (STAKE, UNSTAKE, EARN INTEREST!!:gem: :gem::)
+# Token Farm (STAKE, UNSTAKE, EARN INTEREST!!:gem: :gem:)
 ## Decentralized finance Blockchain app. This Digital Bank lets you earn intrest from depositing cryptocurrency.
 
 ![token farm](https://github.com/dris1995/token_farm/blob/main/src/img/token-farm-01.png)
